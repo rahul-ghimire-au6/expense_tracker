@@ -51,8 +51,10 @@ input:focus, textarea:focus, select:focus{
 .btn{
   margin-left: 40em;
   margin-top:1em;
-  background-color: #a24ce0;
+  background-color:black;
   color: white;
   width: 36em;
   height: 2.5em;
+  border: 1px solid white;
+  font-weight: 700;
 }
